@@ -1,0 +1,6 @@
+.header__langs {
+    display: flex;
+    gap: 18px;
+
+    transform: translateY(4px);
+}
